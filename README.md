@@ -45,7 +45,7 @@
 
 - Python, SQL  
 - Machine Learning, NLP, LLMs  
-- RAG, FAISS, Fine-tuning (LoRA)  
+- RAG, FAISS, Fine-tuning (LoRA), Text-to-SQL 
 - HuggingFace, LangChain  
 - PowerBI , Microsoft Office 
 
