@@ -8,8 +8,9 @@
 ## 🔥 AI Projects
 
 - **Climate Energy Hybrid Assistant**
-  Enterprise-style hybrid AI assistant combining structured climate analytics, Retrieval-Augmented Generation (RAG), hybrid retrieval, reranking, conversational memory, and local LLM orchestration using Qwen + Ollama. Includes evaluation pipelines, citation-aware generation, and Streamlit UI.
-  👉 https://github.com/dimitrisl99/climate-energy-hybrid-assistant
+  Enterprise-style AI assistant for climate and energy intelligence featuring structured analytics, RAG, hybrid retrieval, conversational memory, and local LLM orchestration using Qwen + Ollama. Built with FastAPI, React, ChromaDB, LangChain, and Docker.
+
+👉 https://github.com/dimitrisl99/climate-energy-hybrid-assistant
  
 
 - **Hybrid RAG Chatbot**  
