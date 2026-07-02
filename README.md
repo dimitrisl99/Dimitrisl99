@@ -7,7 +7,7 @@
 
 ## 🔥 AI Projects
 
-- **🏀 MCP LangGraph Basketball Agent**
+- **MCP LangGraph Basketball Agent**
   AI Agent built to explore MCP, LangGraph, Hybrid RAG, Text-to-SQL and local LLMs using a basketball coaching knowledge base.
 
   👉 https://github.com/dimitrisl99/mcp-langgraph-basketball-agent
