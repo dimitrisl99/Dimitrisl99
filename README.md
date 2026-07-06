@@ -17,6 +17,10 @@
   Enterprise-grade AI assistant for climate and energy intelligence combining structured analytics, advanced RAG, hybrid retrieval, conversational memory, interactive visual analytics, PDF report generation and local LLM orchestration. Built with FastAPI, React, ChromaDB, LangChain, Ollama, Recharts and Docker.
 
 👉 https://github.com/dimitrisl99/climate-energy-hybrid-assistant
+
+- **Summarization Eval Pipeline** LLM-as-judge system using Groq API to detect summarization regressions against a golden test set, with automated checks in GitHub Actions CI.
+
+👉 https://github.com/dimitrisl99/summarization-eval
  
 
 - **Hybrid RAG Chatbot**  
