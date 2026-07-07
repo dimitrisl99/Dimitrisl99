@@ -10,13 +10,14 @@
 - **MCP LangGraph Basketball Agent**
   AI Agent built to explore MCP, LangGraph, Hybrid RAG, Text-to-SQL and local LLMs using a basketball coaching knowledge base.
 
-  👉 https://github.com/dimitrisl99/mcp-langgraph-basketball-agent
+👉 https://github.com/dimitrisl99/mcp-langgraph-basketball-agent
   
 
 - **Climate Energy Hybrid Assistant**
   Enterprise-grade AI assistant for climate and energy intelligence combining structured analytics, advanced RAG, hybrid retrieval, conversational memory, interactive visual analytics, PDF report generation and local LLM orchestration. Built with FastAPI, React, ChromaDB, LangChain, Ollama, Recharts and Docker.
 
 👉 https://github.com/dimitrisl99/climate-energy-hybrid-assistant
+
 
 - **Summarization Eval Pipeline** LLM-as-judge system using Groq API to detect summarization regressions against a golden test set, with automated checks in GitHub Actions CI.
 
