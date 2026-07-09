@@ -63,8 +63,8 @@
 
 - Python, SQL  
 - Machine Learning, NLP, LLMs  
-- RAG, FAISS, Fine-tuning (LoRA), Text-to-SQL 
-- HuggingFace, LangChain  
+- RAG, FAISS, Fine-tuning (LoRA), Text-to-SQL , MCP 
+- HuggingFace, LangChain , LangGraph
 - PowerBI , Microsoft Office 
 
 ---
