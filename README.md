@@ -1,7 +1,7 @@
 # Hi, I'm Dimitris Loukakis 👋
 
 🎓 Mathematics graduate from Aristotle University of Thessaloniki  
-🤖 Focused on AI systems, LLM applications, Retrieval-Augmented Generation (RAG) and Data Analytics
+🤖 Focused on AI systems, LLM applications, Retrieval-Augmented Generation (RAG), Machine Learning & Data Analytics
 
 ---
 
